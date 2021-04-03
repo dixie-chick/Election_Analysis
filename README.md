@@ -47,6 +47,7 @@ It can be proposed to the comission this script is versatile and mutable to fit 
 - Gender
 - Religion
 - Ethnicity
+
       ```
             ethnicity_options = []
             ethnicity_votes = {}
