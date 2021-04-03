@@ -14,13 +14,14 @@ In this project, a Python script delivers an Election Audit across three candida
 - The county with the highest turnout
 - 
 ## Process & Data
-A raw CSV file was imported to use data across ballot ID, county, and candidate name
-Data was structured into Lists and Dictionaires
-Decision statements (if), repetetion statements (for), and printing formats (f'{}) were structured to use correct syntax and spacing which would result in total votes, winning candidate, winning county, and winning percentages.
-A text file was created to summarize election findings
+1. A raw CSV file was imported to use data across ballot ID, county, and candidate name
+2. Data was structured into Lists and Dictionaires
+3. Decision statements (if), repetetion statements (for), and printing formats (f'{}) were structured to use correct syntax and spacing which would result in total votes, winning candidate, winning county, and winning percentages.
+4. A text file was created to summarize election findings
 
 ### Be Careful!
 *Spacing, Spacing, Spacing! When using Python, correct syntax and spacing is critical. Upon first run, incorrect results delivered due to an error in spacing:
+
 ![Spacing_Challenges](https://user-images.githubusercontent.com/79612565/113482141-17a74780-9452-11eb-977e-46456379a84f.png)
 
 *Psuedocode-Can't live with it, Can't live without it! Allocating correct variables with such a long code and many variables can be tricky, especially when tallying similiarites, in this example, votes. Although longer in process, adding in psuedocode refreshes the memory of why certain code was created
