@@ -32,12 +32,12 @@ In this project, a Python script delivers an Election Audit across three candida
 ## And the Winner Is...
 
 **County:** Across a **total vote cast of 369,711, _Denver_** had the largest turnout with **82.8%** or **306,055** total votes.
-      - Next in line is Jefferson County with 10.5% of total votes (38,855).
-      - Followed by Arapahoe with 6.7% (24,801) votes.
+- Next in line is Jefferson County with 10.5% of total votes (38,855).
+- Followed by Arapahoe with 6.7% (24,801) votes.
       
 **Candidate**: Across a total vote cast of **369,711, _Diana DeGette_** won with a landslide of **272,892** votes or a whopping **73.8%**! Well done Diana!
-      - Next in line is Charles Casper Stockham with 85,213 votes or 23%.
-      - Raymon Anthony Doane picking up the rear at 11,606 votes or a mere 3.1%.
+- Next in line is Charles Casper Stockham with 85,213 votes or 23%.
+- Raymon Anthony Doane picking up the rear at 11,606 votes or a mere 3.1%.
       
 ![Election_Results](https://user-images.githubusercontent.com/79612565/113482483-cc8e3400-9453-11eb-9d88-87a2838908e2.png)
 
