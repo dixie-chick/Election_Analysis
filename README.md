@@ -20,24 +20,24 @@ In this project, a Python script delivers an Election Audit across three candida
 4. A text file was created to summarize election findings
 
 ### Be Careful!
-*Spacing, Spacing, Spacing! When using Python, correct syntax and spacing is critical. Upon first run, incorrect results delivered due to an error in spacing and a code not aligned within another statement:
+*Spacing, Spacing, Spacing! When using Python, correct syntax and spacing is critical. Upon first run, incorrect results delivered due to an error in spacing and a code not aligned within another statement:*
 
 ![Spacing_Challenges](https://user-images.githubusercontent.com/79612565/113482141-17a74780-9452-11eb-977e-46456379a84f.png)
 
-*Psuedocode-Can't live with it, Can't live without it! Allocating correct variables with such a long code and many variables can be tricky, especially when tallying similiarites, in this example, votes. Although longer in process, adding in psuedocode refreshes the memory of why certain code was created
+*Psuedocode-Can't live with it, Can't live without it! Allocating correct variables with such a long code and many variables can be tricky, especially when tallying similiarites, in this example, votes. Although longer in process, adding in psuedocode refreshes the memory of why certain code was created*
 
 ![Variables_Challenges](https://user-images.githubusercontent.com/79612565/113482252-99977080-9452-11eb-8fd5-115b62798409.png)
 
 
 ## And the Winner Is...
 
-County: Across a total vote cast of 369,711, Denver had the largest turnout with 82.8% or 306,055 total votes.
+**County:** Across a **total vote cast of 369,711, _Denver_** had the largest turnout with **82.8%** or **306,055** total votes.
       Next in line is Jefferson County with 10.5% of total votes (38,855).
       Followed by Arapahoe with 6.7% (24,801) votes.
       
-Candidate: Across a total vote cast of 369,711, Diana DeGette won with a landslide of 272,892 votes or a whopping 73.8%! Well done Diana!
-      Next in line is Charles Casper Stockham with 85,213 votes or 23%
-      Raymon Anthony Doane picking up the rear at 11,606 votes or a mere 3.1%
+**Candidate**: Across a total vote cast of **369,711, _Diana DeGette_** won with a landslide of **272,892** votes or a whopping **73.8%**! Well done Diana!
+      Next in line is Charles Casper Stockham with 85,213 votes or 23%.
+      Raymon Anthony Doane picking up the rear at 11,606 votes or a mere 3.1%.
       
 ![Election_Results](https://user-images.githubusercontent.com/79612565/113482483-cc8e3400-9453-11eb-9d88-87a2838908e2.png)
 
@@ -49,6 +49,6 @@ It can be proposed to the comission this script is versatile and mutable to fit 
 - Ethnicity
 
       ```
-            ethnicity_options = []
-            ethnicity_votes = {}
+      ethnicity_options = []
+      ethnicity_votes = {}
        ```
