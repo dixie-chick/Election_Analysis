@@ -42,14 +42,12 @@ Candidate: Across a total vote cast of 369,711, Diana DeGette won with a landsli
 ![Election_Results](https://user-images.githubusercontent.com/79612565/113482483-cc8e3400-9453-11eb-9d88-87a2838908e2.png)
 
 ## To Wrap it Up
-It can be proposed to the comission this script is versatile and mutable to fit other elections. 
-
-The script can be used to understand voter demogrphaic which can help with campaings for future elections. The code can easily include information like:
+It can be proposed to the comission this script is versatile and mutable to fit other elections. The script can be used to understand voter demogrphaic which can help with campaings for future elections. The code can easily include any string-based information like:
 
 - Gender
 - Religion
-- Age
-            ```
-            age_options = []
-            age_votes = {}
-            ```
+- Ethnicity
+      ```
+            ethnicity_options = []
+            ethnicity_votes = {}
+       ```
