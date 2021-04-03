@@ -42,5 +42,12 @@ Candidate: Across a total vote cast of 369,711, Diana DeGette won with a landsli
 ![Election_Results](https://user-images.githubusercontent.com/79612565/113482483-cc8e3400-9453-11eb-9d88-87a2838908e2.png)
 
 ## To Wrap it Up
-
-3. Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+It can be proposed to the comission this script is versatile and mutable to fit other elections. The script can be used to understand voter demogrphaic such as: 
+      - Gender
+      - Religion
+      - Age
+            ```
+            age_options = []
+            age_votes = {}
+            ```
+Understaning voter demographics can help with campaings for future elections
